@@ -1,0 +1,20 @@
+{
+  "bold_folder_labels": true,
+  "caret_style": "phase",
+  "color_scheme": "Packages/Color Scheme - Default/iPlastic.tmTheme",
+  "new_window_settings": {"show_minimap": false},
+  "fade_fold_buttons": false,
+  "draw_white_space": "all",
+  "word_wrap": false,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "font_size": 15,
+  "margin": 2,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "ensure_newline_at_eof_on_save": true,
+  "rulers": [80, 120],
+  "file_exclude_patterns": [".tags", ".tags_sorted_by_file"],
+  "ignored_packages": []
+}
