@@ -45,7 +45,8 @@ files located in the preferences/User folder instead. :)
 
 = Resources
 
-* {Bryan Helmkamp - User Settings}[https://github.com/brynary/sublime-text-2-user-settings]
+* {Bryan Helmkamp's User Settings}[https://github.com/brynary/sublime-text-2-user-settings]
+* {Neil Sarkar's User Settings}[https://github.com/neilsarkar/sublime_user_directory]
 
 = Contributions
 
