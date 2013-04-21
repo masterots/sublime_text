@@ -7,6 +7,7 @@ Provides custom user preferences and key bindings not provided by default with S
 * Applies preferences not enabled by default (see the Preferences.sublime-settings file).
 * Applies key bindings not enabled by default (see the Default (OSX).sublime-keymap file).
 * Applies extension preferences not enabled by default (see the OSX[https://github.com/bkuhlmann/osx] project for details.)
+* Provides tab-complete code snippets for HTML, CSS, Ruby, Rails, RSpec, etc.
 
 = Requirements
 
@@ -20,7 +21,7 @@ Current Version (stable)
 
   git clone git://github.com/bkuhlmann/sublime_text.git
   cd sublime_text
-  git checkout v1.0.0
+  git checkout v1.1.0
 
 Master Version (unstable)
 
