@@ -4,5 +4,5 @@
   </content>
   <tabTrigger>logd</tabTrigger>
   <description>Rails Logger (debug)</description>
-  <scope>source.ruby.rails</scope>
+  <scope>source.ruby, source.rails</scope>
 </snippet>

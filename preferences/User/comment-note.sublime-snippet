@@ -4,5 +4,5 @@
   </content>
   <tabTrigger>note</tabTrigger>
   <description>Note Comment</description>
-  <scope>source.ruby.rails</scope>
+  <scope>source.ruby, source.rails</scope>
 </snippet>

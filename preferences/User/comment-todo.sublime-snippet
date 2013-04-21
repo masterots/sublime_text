@@ -4,5 +4,5 @@
   </content>
   <tabTrigger>todo</tabTrigger>
   <description>ToDo Comment</description>
-  <scope>source.ruby.rails</scope>
+  <scope>source.ruby, source.rails</scope>
 </snippet>

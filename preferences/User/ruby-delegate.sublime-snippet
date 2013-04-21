@@ -4,5 +4,5 @@
   </content>
   <tabTrigger>delegate</tabTrigger>
   <description>Ruby Delegate</description>
-  <scope>source.ruby.rails</scope>
+  <scope>source.ruby, source.rails</scope>
 </snippet>

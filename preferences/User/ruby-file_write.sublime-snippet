@@ -4,5 +4,5 @@
   </content>
   <tabTrigger>filew</tabTrigger>
   <description>File Write</description>
-  <scope>source.ruby.rails</scope>
+  <scope>source.ruby, source.rails</scope>
 </snippet>

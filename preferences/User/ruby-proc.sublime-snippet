@@ -4,5 +4,5 @@
   </content>
   <tabTrigger>proc</tabTrigger>
   <description>Ruby Proc</description>
-  <scope>source.ruby.rails</scope>
+  <scope>source.ruby, source.rails</scope>
 </snippet>

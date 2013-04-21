@@ -4,5 +4,5 @@
   </content>
   <tabTrigger>arrayi</tabTrigger>
   <description>Ruby Array Inject</description>
-  <scope>source.ruby.rails</scope>
+  <scope>source.ruby, source.rails</scope>
 </snippet>

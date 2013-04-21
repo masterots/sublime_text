@@ -4,5 +4,5 @@
   </content>
   <tabTrigger>hashi</tabTrigger>
   <description>Ruby Hash Inject</description>
-  <scope>source.ruby.rails</scope>
+  <scope>source.ruby, source.rails</scope>
 </snippet>

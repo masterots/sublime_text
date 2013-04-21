@@ -4,5 +4,5 @@
   </content>
   <tabTrigger>filer</tabTrigger>
   <description>File Read</description>
-  <scope>source.ruby.rails</scope>
+  <scope>source.ruby, source.rails</scope>
 </snippet>

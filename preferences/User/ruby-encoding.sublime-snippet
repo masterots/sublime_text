@@ -4,5 +4,5 @@
   </content>
   <tabTrigger>encode</tabTrigger>
   <description>Ruby Encoding</description>
-  <scope>source.ruby.rails</scope>
+  <scope>source.ruby, source.rails</scope>
 </snippet>
