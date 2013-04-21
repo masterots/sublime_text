@@ -4,5 +4,5 @@
   </content>
   <tabTrigger>options</tabTrigger>
   <description>Rails Select Options</description>
-  <scope>source.ruby, source.rails</scope>
+  <scope>source.rails</scope>
 </snippet>

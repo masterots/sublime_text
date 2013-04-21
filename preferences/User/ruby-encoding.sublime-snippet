@@ -1,7 +1,5 @@
 <snippet>
-  <content>
-    <![CDATA[# encoding: UTF-8]]>
-  </content>
+  <content><![CDATA[# encoding: UTF-8]]></content>
   <tabTrigger>encode</tabTrigger>
   <description>Ruby Encoding</description>
   <scope>source.ruby, source.rails</scope>

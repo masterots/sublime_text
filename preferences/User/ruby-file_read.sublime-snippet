@@ -1,7 +1,5 @@
 <snippet>
-  <content>
-    <![CDATA[${1:file} = File.open(${2:path}, 'r')]]>
-  </content>
+  <content><![CDATA[${1:file} = File.open(${2:path}, 'r')]]></content>
   <tabTrigger>filer</tabTrigger>
   <description>File Read</description>
   <scope>source.ruby, source.rails</scope>
