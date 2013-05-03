@@ -10,28 +10,22 @@
 set -e # Exit if any command returns non-zero.
 SUBLIME_TEXT_ROOT="$HOME/Library/Application Support/Sublime Text 2"
 
+# FUNCTIONS
+source scripts/utilities.sh
+source scripts/options.sh
+
 # EXECUTION
-echo ''
-while true; do
-  echo "Options:"
-  echo "  l: Link and replace existing user preferences with project preferences."
-  echo "  q: Quit/Exit."
+if [ -z "$1" ]; then
   echo ''
-  read -p "Enter selection: " response
-  case $response in
-    'l')
-      echo ''
-      read -p "You are about to destroy existing user preferences. Continue (y/n)?: " response
-      if [ "$response" == 'y' ]; then
-        rm -rf "$SUBLIME_TEXT_ROOT/Packages/User"
-        ln -Fs "$(pwd)/preferences/User" "$SUBLIME_TEXT_ROOT/Packages"
-        echo "Install complete, please restart Sublime Text."
-      else
-        echo "Install aborted."
-      fi
-      break;;
-    'q')
-      break;;
-  esac
-done
-echo ''
+  while true; do
+    echo "Usage: run OPTION"
+    echo "\nSublime Text Options:"
+    echo "  l: Link and replace existing user preferences with project preferences."
+    echo "  q: Quit/Exit."
+    echo ''
+    read -p "Enter selection: " response
+    process_option $response
+  done
+else
+  process_option $1
+fi
