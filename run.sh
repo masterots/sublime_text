@@ -4,7 +4,7 @@
 # Configures Sublime Text user preferences, key bindings, and extensions.
 
 # USAGE
-# ./run.sh
+# ./install.sh
 
 # SETTINGS
 set -e # Exit if any command returns non-zero.
