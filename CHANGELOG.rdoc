@@ -1,3 +1,9 @@
+= v2.0.0
+
+* Renamed install.sh to run.sh.
+* Added the ability to bypass the options prompt.
+* Tweaked user preferences to support wide caret, scroll past end of file, and default to vintage mode.
+
 = v1.1.0
 
 * Fixed bug with improperly defined multiple sources in snippets.
