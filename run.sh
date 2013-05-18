@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # DESCRIPTION
-# Configures Sublime Text user preferences, key bindings, and extensions.
+# Executes the command line interface.
 
 # USAGE
 # ./run.sh OPTION
