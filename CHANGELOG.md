@@ -1,10 +1,10 @@
-= v2.0.0
+# v2.0.0
 
 * Renamed install.sh to run.sh.
 * Added the ability to bypass the options prompt.
 * Tweaked user preferences to support wide caret, scroll past end of file, and default to vintage mode.
 
-= v1.1.0
+# v1.1.0
 
 * Fixed bug with improperly defined multiple sources in snippets.
 * Added snippets for note, todo, and fix comments.
@@ -26,6 +26,6 @@
 * Added Bryan Helmkamp's user settings as a resource link to the README.
 * Added Neil Sarkar's user settings as a resource link to the README.
 
-= v1.0.0
+# v1.0.0
 
 * Initial version.

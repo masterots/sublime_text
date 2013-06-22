@@ -1,40 +1,40 @@
-= Overview
+# Overview
 
 Provides custom user preferences and key bindings not provided by default with Sublime Text.
 
-= Features
+# Features
 
 * Applies preferences not enabled by default (see the Preferences.sublime-settings file).
 * Applies key bindings not enabled by default (see the Default (OSX).sublime-keymap file).
-* Applies extension preferences not enabled by default (see the OSX[https://github.com/bkuhlmann/osx] project for details.)
+* Applies extension preferences not enabled by default (see the [OSX](https://github.com/bkuhlmann/osx) project for details.)
 * Provides tab-complete code snippets for HTML, CSS, Ruby, Rails, RSpec, etc.
 
-= Requirements
+# Requirements
 
-* {Sublime Text 2}[http://www.sublimetext.com].
+* [Sublime Text 2](http://www.sublimetext.com).
 
-= Setup
+# Setup
 
 Open a terminal window and execute the following commands:
 
 Current Version (stable)
 
-  git clone git://github.com/bkuhlmann/sublime_text.git
-  cd sublime_text
-  git checkout v2.0.0
+    git clone git://github.com/bkuhlmann/sublime_text.git
+    cd sublime_text
+    git checkout v2.0.0
 
 Master Version (unstable)
 
-  git clone git://github.com/bkuhlmann/sublime_text.git
-  cd sublime_text
+    git clone git://github.com/bkuhlmann/sublime_text.git
+    cd sublime_text
 
 Modify all files in the preferences/User folder as you see fit.
 
-= Usage
+# Usage
 
 Type the following from the command line to install:
 
-  ./run.sh
+    ./run.sh
 
 NOTE: Installing assumes this project will be kept around locally and not moved
 (due to the fact that installing symbolically links the Sublime Text Users folder
@@ -44,31 +44,32 @@ simply re-run the install to fix the symbolic link.
 Alternatively, the install can be skipped and content can be pilfered from the
 files located in the preferences/User folder instead. :)
 
-= Resources
+# Resources
 
-* {Bryan Helmkamp's User Settings}[https://github.com/brynary/sublime-text-2-user-settings]
-* {Neil Sarkar's User Settings}[https://github.com/neilsarkar/sublime_user_directory]
+* [Bryan Helmkamp's User Settings](https://github.com/brynary/sublime-text-2-user-settings)
+* [Neil Sarkar's User Settings](https://github.com/neilsarkar/sublime_user_directory)
 
-= Versioning
+# Versioning
 
-Read {Semantic Versioning}[http://semver.org] for details. Briefly, it means:
+Read [Semantic Versioning](http://semver.org) for details. Briefly, it means:
+
 * Patch (x.y.Z) - Incremented for small, backwards compatible bug fixes.
 * Minor (x.Y.z) - Incremented for new, backwards compatible public API enhancements and/or bug fixes.
 * Major (X.y.z) - Incremented for any backwards incompatible public API changes.
 
-= Contributions
+# Contributions
 
 Read CONTRIBUTING for details.
 
-= Credits
+# Credits
 
-Developed by {Brooke Kuhlmann}[http://www.redalchemist.com] at {Red Alchemist}[http://www.redalchemist.com]
+Developed by [Brooke Kuhlmann](http://www.redalchemist.com) at [Red Alchemist](http://www.redalchemist.com)
 
-= License
+# License
 
-Copyright (c) 2013 {Red Alchemist}[http://www.redalchemist.com].
+Copyright (c) 2013 [Red Alchemist](http://www.redalchemist.com).
 Read the LICENSE for details.
 
-= History
+# History
 
 Read the CHANGELOG for details.
