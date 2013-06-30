@@ -1,7 +1,5 @@
 <snippet>
-  <content>
-    <![CDATA[stub.as_null_object]]>
-  </content>
+  <content><![CDATA[stub.as_null_object]]></content>
   <tabTrigger>stubn</tabTrigger>
   <description>Ruby Stub as Null</description>
   <scope>source.ruby, source.rails</scope>
