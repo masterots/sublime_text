@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[${1:target}.inject(${2:initial}) {|${3:amalgamate}, ${4:item}| ${5:processor}}]]></content>
+  <content><![CDATA[${1:array}.inject(${2:initial}) {|${3:sum}, ${4:item}| $5}]]></content>
   <tabTrigger>arrayi</tabTrigger>
   <description>Ruby Array Inject</description>
   <scope>source.ruby, source.rails</scope>

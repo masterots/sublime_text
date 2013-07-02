@@ -1,7 +1,8 @@
 <snippet>
   <content>
-<![CDATA[it "${1}" do
-  ${2}
+<![CDATA[
+it "$1" do
+  $2
 end
 ]]>
   </content>

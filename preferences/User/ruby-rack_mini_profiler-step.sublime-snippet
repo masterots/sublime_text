@@ -1,7 +1,7 @@
 <snippet>
-  <content>
-<![CDATA[Rack::MiniProfiler.step("${1:label}") do
-  ${2:code}
+  <content><![CDATA[
+Rack::MiniProfiler.step("${1:label}") do
+  $2
 end
 ]]>
   </content>
