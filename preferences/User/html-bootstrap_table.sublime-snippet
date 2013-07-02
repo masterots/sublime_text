@@ -17,5 +17,5 @@
   </content>
   <tabTrigger>btable</tabTrigger>
   <description>Twitter Bootstrap Table</description>
-  <scope>text.html</scope>
+  <scope>text.html, text.html.ruby</scope>
 </snippet>

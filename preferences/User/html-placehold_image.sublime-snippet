@@ -2,5 +2,5 @@
   <content><![CDATA[http://placehold.it/${1:width}x${2:height}]]></content>
   <tabTrigger>phold</tabTrigger>
   <description>Placehold.it Image</description>
-  <scope>text.html</scope>
+  <scope>text.html, text.html.ruby</scope>
 </snippet>
