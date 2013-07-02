@@ -2,5 +2,5 @@
   <content><![CDATA[logger.debug "DEBUG: ${1:message}"]]></content>
   <tabTrigger>logd</tabTrigger>
   <description>Rails Logger (debug)</description>
-  <scope>source.rails</scope>
+  <scope>source.ruby, source.rails</scope>
 </snippet>
