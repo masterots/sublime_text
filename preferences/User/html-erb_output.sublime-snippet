@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<%= ${1:code} %>]]></content>
+  <tabTrigger>erbo</tabTrigger>
+  <description>ERB Output</description>
+  <scope>text.html, text.html.ruby</scope>
+</snippet>
