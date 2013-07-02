@@ -8,6 +8,6 @@
 ]]>
   </content>
   <tabTrigger>erbie</tabTrigger>
-  <description>ERB</description>
+  <description>ERB if..else..end</description>
   <scope>text.html, text.html.ruby</scope>
 </snippet>
