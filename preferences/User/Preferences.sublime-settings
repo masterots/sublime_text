@@ -6,6 +6,7 @@
   "new_window_settings": {"show_minimap": false},
   "fade_fold_buttons": false,
   "draw_white_space": "all",
+  "indent_guide_options": ["draw_normal", "draw_active"],
   "word_wrap": false,
   "highlight_line": true,
   "highlight_modified_tabs": true,
