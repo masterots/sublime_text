@@ -1,6 +1,6 @@
 # Overview
 
-Provides custom user preferences and key bindings not provided by default with Sublime Text.
+Shell scripts for applying custom user settings, key bindings, extension preferences, and code snippets.
 
 # Features
 
