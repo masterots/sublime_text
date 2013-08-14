@@ -21,7 +21,7 @@ Current Version (stable)
 
     git clone git://github.com/bkuhlmann/sublime_text.git
     cd sublime_text
-    git checkout v2.0.0
+    git checkout v3.0.0
 
 Master Version (unstable)
 
@@ -37,7 +37,7 @@ Type the following from the command line to install:
     ./run.sh
 
 NOTE: Installing assumes this project will be kept around locally and not moved
-(due to the fact that installing symbolically links the Sublime Text Users folder
+(due to the fact that installing symbolic links the Sublime Text Users folder
 with the preferences/User folder of this project). Should this project be relocated,
 simply re-run the install to fix the symbolic link.
 
