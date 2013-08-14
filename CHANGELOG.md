@@ -6,6 +6,8 @@
 * Updated snippet content details to one line where apt (syntax cleanup).
 * Updated indent guide options in user preferences to draw active indentation line for a better visual of how deeply nested you might be in the code.
 * Updated README to match GitHub project description.
+* Updated the hashi snippet to use a create do..end block instead of {}.
+* Updated the arrayi snippet to use a create do..end block instead of {}.
 * Added stub (as null) snippet for Ruby and Rails.
 * Added Ruby to the scope for logger debug snippets.
 * Added a Versioning section to the README.

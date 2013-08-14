@@ -1,6 +1,10 @@
 <snippet>
   <content>
-    <![CDATA[${1:target}.each_with_object({}) { |(${2:key}, ${3:value}), ${4:hash}| $5}]]>
+<![CDATA[
+${1:target}.each_with_object(${2:\{\}}) do |(${3:key}, ${4:value}), ${5:hash}|
+  $6
+end
+]]>
   </content>
   <tabTrigger>hashi</tabTrigger>
   <description>Ruby Hash Inject</description>
